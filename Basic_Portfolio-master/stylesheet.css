@@ -1,0 +1,48 @@
+h1{
+    position: static;
+    top: 0px;
+    background-color: blueviolet;
+   text-align: center;
+    font-family: 'Oswald', sans-serif; ;
+}
+body{
+    background-image: url(./assets/images/dark-honeycomb.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    font-family: 'Ruge Boogie', cursive;
+    font-size: 13px;
+     }
+     
+    #paragraph{
+        height:250px;
+        font-size: 22px;
+        width: 55%;
+        position: static;
+        bottom: 295px;
+        left:16px;
+        background-color: black;
+        color: rgb(126, 67, 185);
+    
+    }
+    h2{
+ 
+        width: auto;
+        position: relative;
+        top: 15px;
+        left: 16px;
+        color: rgb(108, 43, 182);
+      background-color: black;
+    }
+
+
+
+
+
+h3{
+    height:auto;
+    width:auto;
+    position: static;
+    bottom:25px;
+    left: 16px;
+    color: rgb(190, 177, 202);
+     
