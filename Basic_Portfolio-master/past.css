@@ -9,4 +9,20 @@ body{
     background-image: url(./assets/images/dark-honeycomb.jpg);
     background-size: cover;
     background-repeat: no-repeat; 
+    font-family: 'Ruge Boogie', cursive;
+    font-size: 13px;
      }
+h1{
+    position: static;
+    top: 0px;
+    background-color: blueviolet;
+   text-align: center;
+    font-family: 'Oswald', sans-serif; ;
+}
+h2{
+    color: aliceblue;;
+}
+
+     
+     
+  

@@ -1,3 +1,10 @@
+.topnav{
+    background-image: url("../Basic_Portfolio-master/assets/images/Professional.jpg");
+   background-size: cover;
+    padding: 15px;
+    font-size: 24px;
+    font-style: italic;
+}
 h1{
     color: blueviolet;
 }
